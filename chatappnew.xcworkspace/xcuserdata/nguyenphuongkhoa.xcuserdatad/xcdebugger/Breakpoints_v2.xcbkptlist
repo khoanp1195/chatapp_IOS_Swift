@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "83E11D09-5512-4CB7-A224-38E323F83BA9"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "077BB557-E137-49C2-BFB3-8D89D54590F9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "chatappnew/Controllers/Login/RegisterrViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "285"
+            endingLineNumber = "285"
+            landmarkName = "loginbuttonClicked()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "077BB557-E137-49C2-BFB3-8D89D54590F9 - bddd4db55be46b64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "chatappnew.RegisterrViewController.loginbuttonClicked() -&gt; ()"
+                  moduleName = "chatappnew"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenphuongkhoa/Desktop/chatappnew/chatappnew/Controllers/Login/RegisterrViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "285"
+                  endingLineNumber = "285"
+                  offsetFromSymbolStart = "1020">
+               </Location>
+               <Location
+                  uuid = "077BB557-E137-49C2-BFB3-8D89D54590F9 - bddd4db55be46b64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "chatappnew.RegisterrViewController.loginbuttonClicked() -&gt; ()"
+                  moduleName = "chatappnew"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenphuongkhoa/Desktop/chatappnew/chatappnew/Controllers/Login/RegisterrViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "285"
+                  endingLineNumber = "285"
+                  offsetFromSymbolStart = "1100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C4C7B0E6-D851-420F-B2C6-582219A85CA5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "chatappnew/Controllers/Login/LoginnViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "277"
+            endingLineNumber = "277"
+            landmarkName = "LoginWithFacebook()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
