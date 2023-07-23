@@ -14,8 +14,8 @@
             filePath = "chatappnew/Controllers/Login/RegisterrViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "285"
-            endingLineNumber = "285"
+            startingLineNumber = "288"
+            endingLineNumber = "288"
             landmarkName = "loginbuttonClicked()"
             landmarkType = "7">
             <Locations>
@@ -62,9 +62,405 @@
             filePath = "chatappnew/Controllers/Login/LoginnViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "277"
-            endingLineNumber = "277"
+            startingLineNumber = "279"
+            endingLineNumber = "279"
             landmarkName = "LoginWithFacebook()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CA730B42-E98A-4041-A4A9-9680D7327F41"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "chatappnew/Controllers/ViewController/ProfileViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "createTableHeader()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CA730B42-E98A-4041-A4A9-9680D7327F41 - 2d8d0abb6132893b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "chatappnew.ProfileViewController.createTableHeader() -&gt; Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "chatappnew"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenphuongkhoa/Desktop/chatappnew/chatappnew/Controllers/ViewController/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "1620">
+               </Location>
+               <Location
+                  uuid = "CA730B42-E98A-4041-A4A9-9680D7327F41 - a65e02a67c1ef188"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Foundation.URL, Swift.Error&gt;) -&gt; () in chatappnew.ProfileViewController.createTableHeader() -&gt; Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "chatappnew"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenphuongkhoa/Desktop/chatappnew/chatappnew/Controllers/ViewController/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "CA730B42-E98A-4041-A4A9-9680D7327F41 - a65e02a67c1ef188"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Foundation.URL, Swift.Error&gt;) -&gt; () in chatappnew.ProfileViewController.createTableHeader() -&gt; Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "chatappnew"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenphuongkhoa/Desktop/chatappnew/chatappnew/Controllers/ViewController/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  uuid = "CA730B42-E98A-4041-A4A9-9680D7327F41 - 2d8d0abb6132891a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "chatappnew.ProfileViewController.createTableHeader() -&gt; Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "chatappnew"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenphuongkhoa/Desktop/chatappnew/chatappnew/Controllers/ViewController/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "1552">
+               </Location>
+               <Location
+                  uuid = "CA730B42-E98A-4041-A4A9-9680D7327F41 - a65e02a67c1ef1a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Foundation.URL, Swift.Error&gt;) -&gt; () in chatappnew.ProfileViewController.createTableHeader() -&gt; Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "chatappnew"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenphuongkhoa/Desktop/chatappnew/chatappnew/Controllers/ViewController/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "248">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE5F8959-3109-4BC0-BE73-314395D908F1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "chatappnew/Resources/StorageManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "dowloadURL(for:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EE5F8959-3109-4BC0-BE73-314395D908F1 - 3e4df21775d14607"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "chatappnew.StorageManager.dowloadURL(for: Swift.String, completion: (Swift.Result&lt;Foundation.URL, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "chatappnew"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenphuongkhoa/Desktop/chatappnew/chatappnew/Resources/StorageManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "EE5F8959-3109-4BC0-BE73-314395D908F1 - af284c776a0a04ac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.URL&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in chatappnew.StorageManager.dowloadURL(for: Swift.String, completion: (Swift.Result&lt;Foundation.URL, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "chatappnew"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenphuongkhoa/Desktop/chatappnew/chatappnew/Resources/StorageManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "EE5F8959-3109-4BC0-BE73-314395D908F1 - af284c776a0a04ac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.URL&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in chatappnew.StorageManager.dowloadURL(for: Swift.String, completion: (Swift.Result&lt;Foundation.URL, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "chatappnew"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenphuongkhoa/Desktop/chatappnew/chatappnew/Resources/StorageManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "368">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84EC6E3F-AC50-4B26-ABED-FB6BA984B1D9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "chatappnew/Controllers/ViewController/ProfileViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "createTableHeader()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70273CB2-4EFD-4743-A17D-11A3C1CE9428"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "chatappnew/Controllers/ViewController/ProfileViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "createTableHeader()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C53423B5-61C5-494C-B7A0-FC5A64D05863"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "chatappnew/Resources/DatabaseManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "insertUser(with:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6BA2037D-3404-4B6B-A5A0-23A0160AAFB9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "chatappnew/Controllers/ViewController/NewConversationViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "264"
+            endingLineNumber = "264"
+            landmarkName = "filterUser(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F0FB5BF9-B19D-40A1-A76B-7BF58F5F4C26"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "chatappnew/Controllers/ViewController/NewConversationViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "267"
+            endingLineNumber = "267"
+            landmarkName = "filterUser(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D3B28906-DAC8-4A04-BB5A-CB30FD59431F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "chatappnew/Controllers/ViewController/NewConversationViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "270"
+            endingLineNumber = "270"
+            landmarkName = "filterUser(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D5298AE2-86C7-48B1-BCE6-A8F1B7E2544F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "chatappnew/Controllers/ViewController/NewConversationViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "274"
+            endingLineNumber = "274"
+            landmarkName = "UpdateUI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F62DF5B-D983-44DA-ABB7-74697B2A9B10"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "chatappnew/Controllers/ViewController/NewConversationViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "viewDidLayoutSubviews()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C3B50571-DE09-4158-9AE7-1175151B4F76"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "chatappnew/Controllers/ViewController/NewConversationViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "236"
+            endingLineNumber = "236"
+            landmarkName = "searchUser(query:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C3B50571-DE09-4158-9AE7-1175151B4F76 - bfc37bcb34bf0be7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "chatappnew.NewConversationViewController.searchUser(query: Swift.String) -&gt; ()"
+                  moduleName = "chatappnew"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenphuongkhoa/Desktop/chatappnew/chatappnew/Controllers/ViewController/NewConversationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "C3B50571-DE09-4158-9AE7-1175151B4F76 - bfc37bcb34bf0bd8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "chatappnew.NewConversationViewController.searchUser(query: Swift.String) -&gt; ()"
+                  moduleName = "chatappnew"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenphuongkhoa/Desktop/chatappnew/chatappnew/Controllers/ViewController/NewConversationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "282636C8-5AA6-4109-9A1F-74AED2AD18F3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "chatappnew/Resources/DatabaseManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "insertUser(with:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "282636C8-5AA6-4109-9A1F-74AED2AD18F3 - b82d2c1b35529f5c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot) -&gt; () in closure #1 (Swift.Optional&lt;Swift.Error&gt;, __C.FIRDatabaseReference) -&gt; () in chatappnew.DatabaseManager.insertUser(with: chatappnew.chatappUser, completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "chatappnew"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenphuongkhoa/Desktop/chatappnew/chatappnew/Resources/DatabaseManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "1236">
+               </Location>
+               <Location
+                  uuid = "282636C8-5AA6-4109-9A1F-74AED2AD18F3 - b82d2c1b35529f1a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot) -&gt; () in closure #1 (Swift.Optional&lt;Swift.Error&gt;, __C.FIRDatabaseReference) -&gt; () in chatappnew.DatabaseManager.insertUser(with: chatappnew.chatappUser, completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "chatappnew"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenphuongkhoa/Desktop/chatappnew/chatappnew/Resources/DatabaseManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC4C4867-3DE3-46A5-B808-BC9C174AEDAB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "chatappnew/Resources/DatabaseManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "insertUser(with:completion:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

@@ -22,7 +22,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-1332" y="77"/>
+            <point key="canvasLocation" x="-1332" y="64"/>
         </scene>
         <!--My Friends-->
         <scene sceneID="oxy-zZ-APy">
@@ -64,7 +64,7 @@
         <scene sceneID="zK6-OM-Ub3">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="NTI-Eu-baI" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Home" id="rZR-Lu-sZl"/>
+                    <tabBarItem key="tabBarItem" title="Home" selectedImage="icon_profile" id="rZR-Lu-sZl"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" largeTitles="YES" id="Zyi-bW-iNk">
                         <rect key="frame" x="0.0" y="59" width="393" height="96"/>
@@ -83,7 +83,7 @@
         <scene sceneID="2XB-1j-ca2">
             <objects>
                 <navigationController id="nqu-7S-4Lh" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="My Friends" id="ZT0-dC-RBe"/>
+                    <tabBarItem key="tabBarItem" title="My Friends" selectedImage="icon_notice" id="ZT0-dC-RBe"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" largeTitles="YES" id="eum-kj-wF8">
                         <rect key="frame" x="0.0" y="59" width="393" height="96"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -100,7 +100,7 @@
         <scene sceneID="bHE-io-K76">
             <objects>
                 <navigationController id="H42-eS-HjR" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Forum" id="6BI-Ul-9pb"/>
+                    <tabBarItem key="tabBarItem" title="Forum" selectedImage="icon_message" id="6BI-Ul-9pb"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" largeTitles="YES" id="uyc-V9-cA7">
                         <rect key="frame" x="0.0" y="59" width="393" height="96"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -133,7 +133,7 @@
         <scene sceneID="tgg-5G-9Tn">
             <objects>
                 <navigationController id="5S0-WP-tCk" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Profile" id="Xmm-d4-jLA"/>
+                    <tabBarItem key="tabBarItem" title="Profile" selectedImage="icon_home" id="Xmm-d4-jLA"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" largeTitles="YES" id="cZ9-Wv-r9N">
                         <rect key="frame" x="0.0" y="59" width="393" height="96"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -144,7 +144,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="HJY-xb-adp" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-3700" y="-655"/>
+            <point key="canvasLocation" x="-4312" y="-675"/>
         </scene>
         <!--Profile-->
         <scene sceneID="GeS-Yc-TKe">
@@ -175,10 +175,14 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="9W3-R4-5Mp" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-3700" y="77"/>
+            <point key="canvasLocation" x="-4543" y="77"/>
         </scene>
     </scenes>
     <resources>
+        <image name="icon_home" width="20" height="19"/>
+        <image name="icon_message" width="22" height="22"/>
+        <image name="icon_notice" width="22" height="22"/>
+        <image name="icon_profile" width="11" height="11"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
